@@ -1,0 +1,707 @@
+
+/* 
+
+Emoji Icons 
+
+created by. Group 2 Kodego
+
+- devs
+
+- Waren Gador
+
+*/
+
+/* Food Emoji */
+
+.fd.em-hamburger::before {
+    content : "\01F354"
+}
+.fd.em-fortune-cookie::before {
+    content: "\01F960"
+}
+.fd.em-pancake::before {
+    content: "\01F95E"
+}
+.fd.em-empanada::before,
+.fd.em-dumpling::before {
+    content : "\01F95F"
+}
+.fd.em-sandwitch::before {
+    content : "\01F96A"
+}
+.fd.em-cup-noodles::before {
+    content : "\01F961"
+}
+.fd.em-crossini::before,
+.fd.em-croson::before {
+    content : "\01F950"
+}
+.fd.em-bacon::before {
+    content : "\01F953"
+}
+.fd.em-egg::before {
+    content : "\01F95A"
+}
+.fd.em-milk::before {
+    content: "\01F95B"
+}
+.fd.em-bubble-tea::before,
+.fd.em-milktea::before {
+    content: "\01F9CB"
+}
+.fd.em-juice-box::before {
+    content: "\01F9C3"
+}
+.fd.em-ice::before,
+.fd.em-ice-cube::before {
+    content: "\01F9CA"
+}
+.fd.em-whiskey::before {
+    content: "\01F943"
+}
+.fd.em-pouring-liquid::before {
+    content: "\01FAD7"
+}
+.fd.em-clicking-glasses::before {
+    content: "\01F942"
+}
+.fd.em-sliced-pie::before {
+    content : "\01F960"
+}
+.fd.em-taco-bread::before {
+    content: "\01F959"
+}
+.fd.em-bread::before {
+    content : "\01F956"
+}
+.fd.em-cookies::before {
+    content : "\01F954"
+}
+.fd.em-pan::before {
+    content : "\01F958"
+}
+.fd.em-pie::before {
+    content: "\01F967"
+}
+.fd.em-bread2::before {
+    content: "\01F968"
+}
+.fd.em-taco::before {
+    content: "\01F32E"
+}
+.fd.em-shawarma::before,
+.fd.em-burrito::before {
+    content: "\01F32F"
+}
+.fd.em-hotdog::before {
+    content: "\01F32D"
+}
+.fd.em-sliced-pizza::before {
+    content: "\01F355"
+}
+.fd.em-kisses-choco::before {
+    content: "\01F330"
+}
+.fd.em-canned::before {
+    content: "\01F96B"
+}
+.fd.em-drink::before {
+    content : "\01F964"
+}
+.fd.em-raw-steak::before {
+    content : "\01F969"
+}
+.fd.em-meat::before {
+    content: "\01F356"
+}
+.fd.em-chicken-leg::before {
+    content: "\01F357"
+}
+.fd.em-sushi-1::before {
+    content: "\01F358"
+}
+.fd.em-sushi-2::before {
+    content: "\01F359"
+}
+.fd.em-sushi-3::before {
+    content: "\01F35A"
+}
+.fd.em-curry::before {
+    content: "\01F35B"
+}
+.fd.em-salad::before {
+    content: "\01F957"
+}
+.fd.em-ramen::before {
+    content: "\01F35C"
+}
+.fd.em-teacup-wo-handle::before {
+    content: "\01F375"
+}
+.fd.em-spaghetti::before {
+    content: "\01F35D"
+}
+.fd.em-sliced-bread::before {
+    content: "\01F35E"
+}
+.fd.em-fries::before {
+    content: "\01F35F"
+}
+.fd.em-icecream::before {
+    content: "\01F360"
+}
+.fd.em-dango-1::before {
+    content: "\01F361"
+}
+.fd.em-dango-2::before {
+    content: "\01F362"
+}
+.fd.em-dango-3::before {
+    content: "\01F363"
+}
+.fd.em-sashimi::before,
+.fd.em-sushi::before {
+    content: "\01F363"
+}
+.fd.em-tomale::before {
+    content: "\01FAD4"
+}
+.fd.em-fondue::before {
+    content: "\01FAD5"
+}
+.fd.em-flat-bread::before {
+    content: "\01FAD3"
+}
+.fd.em-cheese::before {
+    content: "\01F9C0"
+}
+.fd.em-fishcake::before {
+    content: "\01F365"
+}
+.fd.em-icecream-1::before{
+    content: "\01F366"
+}
+.fd.em-icecream-2::before{
+    content: "\01F367"
+}
+.fd.em-icecream-3::before{
+    content: "\01F368"
+}
+.fd.em-donut::before {
+    content: "\01F369"
+}
+.fd.em-cookie::before {
+    content: "\01F36A"
+}
+.fd.em-chocolate-bar::before {
+    content: "\01F36B"
+}
+.fd.em-candy-1::before,
+.fd.em-lolly-1::before {
+    content: "\01F36C"
+}
+.fd.em-candy-2::before,
+.fd.em-lolly-2::before {
+    content: "\01F36D"
+}
+.fd.em-candy-3::before,
+.fd.em-lolly-3::before {
+    content: "\01F36E"
+}
+.fd.em-custard::before {
+    content: "\01F36E"
+}
+.fd.em-honey-jar::before {
+    content: "\01F36F"
+}
+.fd.em-sliced-cake::before {
+    content: "\01F370"
+}
+.fd.em-bento::before {
+    content: "\01F371"
+}
+.fd.em-hotpot::before {
+    content: "\01F372"
+}
+.fd.em-fried-egg-pan::before {
+    content: "\01F373"
+}
+.fd.em-grape-wine::before {
+    content: "\01F377"
+}
+.fd.em-greenapple-wine::before {
+    content: "\01F378"
+}
+.fd.em-tropical-drink::before {
+    content: "\01F379"
+}
+.fd.em-beers::before {
+    content: "\01F37A"
+}
+.fd.em-beer::before {
+    content: "\01F37B"
+}
+.fd.em-baby-bottle::before {
+    content: "\01F37C"
+}
+.fd.em-bottle-of-wine::before {
+    content: "\01F37E"
+}
+.fd.em-popcorn::before {
+    content: "\01F37F"
+}
+.fd.em-cake::before,
+.fd.em-birthday-cake::before {
+    content: "\01F382"
+}
+.fd.em-butter::before {
+    content: "\01F9C8"
+}
+.fd.em-mooncake::before {
+    content : "\01F96E"
+}
+.fd.em-cupcake::before {
+    content : "\01F9C1"
+}
+.fd.em-japanese-wine::before,
+.fd.em-rice-wine::before {
+    content: "\01F376"
+}
+.fd.em-beans::before {
+    content : "\01FAD8"
+}
+.fd.em-coconut-drink::before,
+.fd.em-mate::before{
+    content: "\01F9C9"
+}
+.fd.em-waffle::before {
+    content: "\01F9C7"
+}
+.fd.em-ft-falafel::before {
+    content: "\01F9C6"
+}
+.fd.em-ft-coconut::before {
+    content: "\01F965"
+}
+.fd.em-ft-melon::before {
+    content: "\01F348"
+}
+.fd.em-ft-peanut::before,
+.fd.em-ft-nut::before {
+    content : "\01F95C"
+}
+.fd.em-ft-watermelon::before {
+    content: "\01F349"
+}
+.fd.em-ft-orange::before {
+    content: "\01F34A"
+}
+.fd.em-ft-lemon::before {
+    content: "\01F34B"
+}
+.fd.em-ft-banana::before,
+.fd.em-ft-saging::before {
+    content: "\01F34C"
+}
+.fd.em-ft-pineapple::before {
+    content: "\01F34D"
+}
+.fd.em-ft-apple::before {
+    content: "\01F34E"
+}
+.fd.em-ft-apple2::before {
+    content: "\01F34F"
+}
+.fd.em-ft-pear::before {
+    content: "\01F350"
+}
+.fd.em-ft-peach::before {
+    content: "\01F351"
+}
+.fd.em-ft-cherries::before {
+    content: "\01F352"
+}
+.fd.em-ft-strawberry::before {
+    content: "\01F353"
+}
+.fd.em-ft-avocado::before {
+    content: "\01F951"
+}
+.fd.em-ft-kiwi::before {
+    content : "\01F95D"
+}
+.fd.em-ft-olive::before {
+    content: "\01FAD2"
+}
+.fd.em-ft-blueberries::before {
+    content: "\01FAD0"
+}
+.fd.em-vg-cos-lettuces::before,
+.fd.em-vg-pechay::before {
+    content: "\01F96C"
+}
+.fd.em-vg-hot-pepper::before {
+    content: "\01F336"
+}
+.fd.em-vg-carrot::before {
+    content: "\01F955"
+}
+.fd.em-vg-cucumber::before {
+    content: "\01F952"
+}
+.fd.em-vg-tomato::before {
+    content: "\01F345"
+}
+.fd.em-vg-wheat::before {
+    content: "\01F33E"
+}
+.fd.em-vg-bellpepper::before {
+    content: "\01FAD1"
+}
+.fd.em-vg-mushroom::before {
+    content: "\01F344"
+}
+.fd.em-vg-garlic::before {
+    content: "\01F9C4"
+}
+.fd.em-vg-onion::before {
+    content: "\01F9C5"
+}
+.fd.em-vg-aubergine::before,
+.fd.em-vg-eggplant::before {
+    content: "\01F346"
+}
+.fd.em-vg-corn::before {
+    content: "\01F33D"
+}
+.fd.em-vg-brocolli::before {
+    content : "\01F966"
+}
+.fd.em-sea-shrimp::before {
+    content: "\01F990"
+}
+.fd.em-sea-squid::before {
+    content: "\01F991"
+}
+.fd.em-sea-crab::before {
+    content: "\01F980"
+}
+.fd.em-sea-labster::before {
+    content: "\01F982"
+}
+.fd.em-sea-tempura::before {
+    content: "\01F364"
+}
+.fd.em-sea-oyster::before {
+    content: "\01F9AA"
+}
+.fd.em-coffeee::before,
+.fd.em-hot-coffee::before {
+    content: "\02615"
+}
+.fd.em-sp-salt::before {
+    content: "\01F9C2"
+}
+
+/* Kitchen Utensils emoji */
+
+.ut.em-chopsticks::before {
+    content : "\01F952"
+}
+.ut.em-bowl-spoon::before {
+    content: "\01F963";
+}
+.ut.em-teapot::before {
+    content: "\01FAD6"
+}
+.ut.em-knife-fork::before,
+.ut.em-cutlery-1 {
+    content: "\01F374"
+}
+.ut.em-knife-fork-wspoon::before,
+.ut.em-cutlery-2 {
+    content: "\0FE0F"
+}
+.ut.em-spoon::before {
+    content: "\01F944s"
+}
+.ut.em-knife::before {
+    content: "\01F52A"
+}
+.ut.em-jar::before {
+    content: "\01FAD9"
+}
+
+/* Flags */
+
+.fl.em-race-flag,
+.fl.em-chequered-flag {
+    content: "\01F3C1"
+}
+.fl.em-gulf-flag::before,
+.fl.em-triangular-flag::before {
+    content: "\01F6A9"
+}
+.fl.em-crossed-flags::before,
+.fl.em-two-japanese-flags::before {
+    content: "\01F38C"
+}
+.fl.em-black-flag::before,
+.fl.em-dark-flag::before {
+    content: "\01F3F4"
+}
+.fl.em-white::before,
+.fl.em-peace::before {
+    content: "\01F3F3\0FE0F"
+}
+.fl.em-rainbow::before,
+.fl.lgbtq-flag::before {
+    content: "\01F3F3\0FE0F\0200D\01F308"
+}
+.fl.em-transgender::before {
+    content: "\01F3F3\0FE0F\0200D\026A7\0FE0F"
+}
+.fl.em-pirate::before {
+    content: "\01F3F4\0200D\02620\0FE0F"
+}
+.fl.s-africa-uk-ascension-island::before {
+    content: "\01F1E6 \01F1E8"
+}
+.fl.w-europe-andorra::before {
+    content: "\01F1E6\01F1E9"
+}
+.fl.m-asia-uae::before {
+    content: "\01F1E6\01F1EA"
+}
+.fl.m-asia-afganistan::before {
+    content: "\01F1E6\01F1EB"
+}
+.fl.n-america-antigua-barbuda::before {
+    content: "\01F1E6\01F1EC"
+}
+.fl.s-america-uk-aguilla::before {
+    content: "\01F1E6\01F1EE"
+}
+.fl.se-europe-albania::before {
+    content: "\01F1E6\01F1F1"
+}
+.fl.w-europe-armenia::before {
+    content: "\01F1E6\01F1F2"
+}
+.fl.s-africa-agola::before {
+    content: "\01F1E6\01F1F4"
+}
+.fl.antartic-antartica::before {
+    content: "\01F1E6\01F1F6"
+}
+.fl.s-america-argentina::before {
+    content: "\01F1E6\01F1F7"
+}
+.fl.oceania-american-samoa::before {
+    content: "\01F1E6\01F1F8"
+}
+.fl.europe-austria::before {
+    content: "\01F1E6\01F1F9"
+}
+.fl.oceania-uk-australia::before {
+    content: "\01F1E6\01F1FA"
+}
+.fl.s-america-aruba::before {
+    content: "\01F1E6\01F1FC"
+}
+.fl.nordic-aland::before {
+    content: "\01F1E6\01F1FD"
+}
+.fl.nordic-iceland::before,
+.fl.nordic-icelandic::before {
+    content: "\01F1EE\01F1F8"
+}
+.fl.nordic-norway::before,
+.fl.nordic-norwegian::before {
+    content: "\01F1F3\01F1F4"
+}
+.fl.nordic-sweden::before,
+.fl.nordic-swedish::before {
+    content: "\01F1F8\01F1EA"
+}
+.fl.nordic-denmark::before,
+.fl.nordic-danish::before {
+    content: "\01F1E9\01F1F0"
+}
+.fl.nordic-finland::before,
+.fl.nordic-finnish::before {
+    content: "\01F1EB\01F1EE"
+}
+.fl.nordic-faroe-islands::before {
+    content: "\01F1EB\01F1F4"
+}
+.fl.w-asia-azerbaijan::before {
+    content: "\01F1E6\01F1FF"
+}
+.fl.w-europe-united-kingdom::before,
+.fl.w-europe-uk::before {
+    content: "\01F1EC\01F1E7"
+}
+.fl.e-europe-bosnia-herzegovina::before {
+    content: "\01F1E7\01F1E6"
+}
+.fl.s-america-barbados::before {
+    content: "\01F1E7\01F1E7"
+}
+.fl.s-asia-bangladesh::before {
+    content: "\01F1E7\01F1E9"
+}
+.fl.w-europe-belgium::before {
+    content: "\01F1E7\01F1EA"
+}
+.fl.w-africa-burkina-faso::before {
+    content: "\01F1E7\01F1EB"
+}
+.fl.se-europe-bulgaria::before {
+    content: "\01F1E7\01F1EC"
+}
+.fl.w-asia-bahrain::before {
+    content: "\01F1E7\01F1ED"
+}
+.fl.w-africa-burundi::before {
+    content: "\01F1E7\01F1EE"
+}
+.fl.w-africa-benin::before {
+    content: "\01F1E7\01F1EF"
+}
+.fl.s-america-st-barthelemy::before {
+    content: "\01F1E7\01F1F1";
+}
+.fl.n-america-uk-bermuda::before {
+    content: "\01F1E7\01F1F2"
+}
+.fl.se-asia-brunei::before {
+    content: "\01F1E7\01F1F3"
+}
+.fl.s-america-bolivia::before {
+    content: "\01F1E7\01F1F4"
+}
+.fl.s-america-carribean-netherlands::before {
+    content: "\01F1E7\01F1F6"
+}
+.fl.s-america-brazil::before {
+    content: "\01F1E7\01F1F7"
+}
+.fl.s-america-bahamas::before {
+    content: "\01F1E7\01F1F8"
+}
+.fl.s-asia-bhutan::before {
+    content: "\01F1E7\01F1F9"
+}
+.fl.s-atlantic-bouvet-island::before {
+    content: "\01F1E7\01F1FB";
+}
+.fl.s-africa-botswana::before {
+    content: "\01F1E7\01F1FC"
+}
+.fl.e-europe-belarus::before {
+    content: "\01F1E7\01F1FE"
+}
+.fl.c-america-belize::before {
+    content: "\01F1E7\01F1FF"
+}
+.fl.n-america-uk-canada::before {
+    content: "\01F1E8\01F1E6"
+}
+.fl.oceania-cocos-keeling-islands::before {
+    content: "\01F1E8\01F1E8"
+}
+.fl.c-africa-congo-kinshasa::before {
+    content: "\01F1E8\01F1E9"
+}
+.fl.c-africa-central-african-republic::before {
+    content: "\01F1E8\01F1EB"
+}
+.fl.c-africa-congo-brazzaville::before {
+    content: "\01F1E8\01F1EC"
+}
+.fl.c-europe-switzerland::before {
+    content: "\01F1E8\01F1ED"
+}
+.fl.se-asia-philippines::before,
+.fl.se-asia-pinoy::before {
+    content: "\01F1F5\01F1ED"
+}
+.fl.se-asia-vietnam::before,
+.fl.se-asia-vietnamese::before {
+    content: "\01F1FB\01F1F3"
+}
+.fl.se-asia-thailand::before,
+.fl.se-asia-thai::before {
+    content: "\01F1F9\01F1ED"
+}
+.fl.se-asia-malaysia::before,
+.fl.se-asia-malaysian::before {
+    content: "\01F1F2\01F1FE"
+}
+.fl.se-asia-laos::before,
+.fl.se-asia-laotian::before {
+    content: "\01F1F1\01F1E6"
+}
+.fl.se-asia-singapore::before,
+.fl.se-asia-singaporean::before {
+    content: "\01F1F8\01F1EC"
+}
+.fl.se-asia-burmese::before,
+.fl.se-asia-myanmar::before,
+.fl.se-asia-myanmarese::before {
+    content: "\01F1F2\01F1F2"
+}
+.fl.se-asia-cambodia::before,
+.fl.se-asia-cambodian::before {
+    content: "\01F1F0\01F1ED"
+}
+.fl.se-asia-indonesia::before,
+.fl.se-asia-indonesian::before {
+    content: "\01F1EE\01F1E9"
+}
+.fl.e-asia-north-korea::before {
+    content: "\01F1F0\01F1F5"
+}
+.fl.e-asia-south-korea::before {
+    content: "\01F1F0\01F1F7"
+}
+.fl.e-asia-japan::before {
+    content: "\01F1EF\01F1F5"
+}
+.fl.n-asia-russia::before {
+    content: "\01F1F7\01F1FA"
+}
+.fl.n-america-united-states::before {
+    content: "\01F1FA\01F1F8"
+}
+
+/* Face Emojis */
+
+/* .fe.face-grinning::before {
+
+}
+.fe.face-grinning-big-eyes::before {
+
+}
+.fe.face-grinning-w-smiling-eyes::before {
+
+}
+
+.fe.face-beaming-w-smiling-eyes::before {
+
+} */
+
+/* Properties */
+
+.pr.em-house::before {
+    content : "\01F3E0"
+}
+
+/* Symbols */
+.sb.em-chat::before {
+    content: "\01F4AC"
+}
+.sb.em-white-question::before {
+    content: "\02754"
+}
